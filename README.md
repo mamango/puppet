@@ -29,3 +29,5 @@ DAEMON_OPTS=""
 PORT=8140
 SERVERTYPE=mongrel
 PUPPETMASTERS=4
+
+/etc/nginx/sites-available/puppetmaster.conf
